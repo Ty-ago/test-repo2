@@ -1,6 +1,6 @@
 # Top Knotch Solutions
 
-Hello & welcome to the TKS Repo! This is my first attempt to create a web application for a painting business. My intention is to develop a static application for his business implementing the following technologies: 
+Hello & welcome to the TKS Repo! This is my first attempt to create a web application for a painting business. My intention is to develop a static application for Robert V. Davis' business, Top Knotch Solutions by implementing the following technologies: 
 
     HTML
     CSS
@@ -13,11 +13,17 @@ Hello & welcome to the TKS Repo! This is my first attempt to create a web applic
 
 For hosting the LAMP stack, I intend to have the project on GitHub using pages, Netlify, Heroku, or AWS utilizing a bucket (Still figuring this part out).
 
-The front end will be built using HTML5, CSS3, JS and Bootstrap 5 for a responsive design. 
+Front End: 
+    
+    will be built using HTML5, CSS3, JS and Bootstrap 5 for a responsive design. 
 
-The back end will be built with PHP and SQL. 
+Back End:
+    
+    will be built with PHP and SQL. 
 
-The web server will run Linux using Apache to serve the pages.
+Web Server:
+
+    will run Linux using Apache to serve the pages.
 
 
 
@@ -42,9 +48,11 @@ The main goals/functions of the site:
     4.) Campaign tracking
 
 
-To Dos:
 
-    1.) Readme
+
+To Dos/Table of contents:
+
+    1.) The Lay of the land
 
     2.) Data and Resources
 
@@ -72,3 +80,8 @@ To Dos:
 
     14.) ?
 
+
+
+Data and Resources:
+
+    
