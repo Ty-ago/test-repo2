@@ -1,6 +1,21 @@
 # Top Knotch Solutions
 
-Hello & welcome to the TKS Repo! This is my first attempt to create a web application for a painting business. My intention is to develop a static application for Robert V. Davis' business, Top Knotch Solutions by implementing the following technologies: 
+Hello & welcome to the TKS Repo! This is my first attempt to create a web application for a painting business. My intention is to develop a static application for Robert V. Davis' business, Top Knotch Solutions. This will allow users to more easily contact Rob and showcase his work in a clean and organized manner that's visually more appealing than his facebook business page. Eventually, Rob will have the capability of modifying his application and tracking his campaigns via a dashboard that congregates his data. 
+
+Table of Contents:
+
+    1.) Tech Stack
+    2.) Goals/Use cases
+    3.) Mockups
+    4.) Design
+    5.) Routes
+    6.) Schema
+    7.) API
+    8.) MVP Features
+    9.) Version 1 Features
+    10.) Initial Front-end TODOs
+
+I intend to implement the following technologies: 
 
     HTML
     CSS
@@ -50,7 +65,7 @@ The main goals/functions of the site:
 
 
 
-To Dos/Table of contents:
+To Dos:
 
     1.) The Lay of the land
 
