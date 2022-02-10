@@ -1,6 +1,6 @@
 # Top Knotch Solutions
 
-Hello & welcome to the TKS Repo! This is my first attempt to create a web application for a painting business. My intention is to develop a static application for Robert V. Davis' business, Top Knotch Solutions. This will allow users to more easily contact Rob and showcase his work in a clean and organized manner that's visually more appealing than his facebook business page. Eventually, Rob will have the capability of modifying his application and tracking his campaigns via a dashboard that congregates his data. 
+Hello & welcome to the TKS Repo! This is my first attempt to create a web application for a painting business. My intention is to develop a static application for Robert V. Davis' business, Top Knotch Solutions. This will allow users to more easily contact Rob and showcase his work in a clean and organized manner that's visually more appealing than his facebook business page, and provide a tone and experience around his brand. Eventually, Rob will have the capability of modifying his application and tracking his campaigns and data via a dashboard that congregates his data and can be used to create more functionality if a developer is hired down the road. This file will be updated as the application software evolves over its lifetime. This is version 1. 
 
 Table of Contents:
 
