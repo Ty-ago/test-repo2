@@ -84,4 +84,55 @@ To Dos/Table of contents:
 
 Data and Resources:
 
+    Business name: Top Knotch Solutions
     
+    Owner/Operator: Robert V. Davis
+    
+    Title:Painter/Carpenter
+    
+    Address: Accord, N.Y. 12404
+
+    Phone: (845) 554-7523
+
+    Facebook: TopKnotchSolutions
+
+    Email: 
+            
+            tksdavis@yahoo.com
+            rob12740@gmail.com
+
+    Services:   
+        
+        1.) Interior/Exterior 
+
+        2.) Painting/Staining
+
+        3.) Drywall installation and repair
+
+        4.) Deck Repair & Staining
+
+        5.) Carpentry Repair
+
+        5.) Custom Carpentry
+
+        6.) Free estimates
+
+    Slogan: We are here to bring the change you're looking for.
+
+    Assurances: 
+    
+        1.) Licensed
+
+        2.) Insured
+
+        3.) Lead certified
+
+    Blurb: top knotch solutions provides local home repairs and change to your home. we specialize in all phases of painting and carpentry.
+
+    Hours of Operation:
+
+        9-5 Monday-Friday
+
+        Closed Sat/Sun
+
+
